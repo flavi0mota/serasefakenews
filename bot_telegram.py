@@ -12,7 +12,7 @@ from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, Messa
 from transformers import BertTokenizer, BertForSequenceClassification
 from newspaper import Article
 
-TOKEN_TELEGRAM = "8504463827:AAHY-zGnl0vnBleXy6B7pYVFfgbbbBlQAgQ" 
+TOKEN_TELEGRAM = "[REDACTED]" 
 PASTA_MODELO = './modelo_whatsapp_pronto' 
 
 logging.basicConfig(
