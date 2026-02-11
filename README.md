@@ -42,11 +42,6 @@ O treinamento foi realizado com uma fusão balanceada (50/50) de dois corpus pri
 * Conta no Ngrok (para túnel no WhatsApp)
 
 ### 1. Clonar o Repositório
-```bash
-git clone [https://github.com/seu-usuario/sentinela-fake-news.git](https://github.com/seu-usuario/sentinela-fake-news.git)
-cd sentinela-fake-news
-
-```
 
 ### 2. Instalar Dependências
 
@@ -54,8 +49,6 @@ cd sentinela-fake-news
 pip install torch transformers pandas scikit-learn selenium webdriver-manager flask pyngrok newspaper3k python-telegram-bot nest_asyncio
 
 ```
-
----
 
 ## Como Usar
 
